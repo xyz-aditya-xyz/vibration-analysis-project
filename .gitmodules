@@ -1,0 +1,9 @@
+[submodule "python/STB-VMM"]
+	path = python/STB-VMM
+	url = git@github.com:RLado/STB-VMM.git
+[submodule "python/TempSlice"]
+	path = python/TempSlice
+	url = git@github.com:RLado/TempSlice.git
+[submodule "python/Tiled-STB-VMM"]
+	path = python/Tiled-STB-VMM
+	url = git@github.com:RLado/Tiled-STB-VMM.git
